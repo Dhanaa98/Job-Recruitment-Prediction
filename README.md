@@ -1,8 +1,8 @@
 # **Job Recruitment Prediction** 
 
 ## Introduction
-This project involves analyzing recruitment data to build Classification predictive models for hiring decisions. The primary goal is to evaluate different machine learning algorithms and compare their performance based on various metrics.
-In this project, Logistic regression, Random forest classifier, Decision tree classifier and Support vector machine models were implemented and their performance were compared.
+This project involves analyzing recruitment data to build Classification predictive models for hiring decisions. The primary goal is to evaluate different Machine Learning algorithms and compare their performance based on various metrics.
+In this project, **Logistic regression**, **Random forest classifier**, **Decision tree classifier** and **Support vector machine** models were implemented and their performance were compared.
 This type of a predictive model can be crucial for an organization as it streamlines the recruitment process by identifying the most suitable candidates, reducing hiring costs, and improving overall hiring efficiency.
 
 ## Data Preprocessing
