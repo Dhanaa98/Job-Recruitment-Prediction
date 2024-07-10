@@ -1,4 +1,4 @@
-# **Job Recruitment Prediction** 
+# **Job Recruitment Prediction with Machine Learning** 
 
 ## Introduction
 This project involves analyzing recruitment data to build Classification predictive models for hiring decisions. The primary goal is to evaluate different Machine Learning algorithms and compare their performance based on various metrics.
